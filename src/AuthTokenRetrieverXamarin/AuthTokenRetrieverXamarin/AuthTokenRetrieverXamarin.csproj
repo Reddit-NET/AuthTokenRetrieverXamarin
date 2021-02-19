@@ -10,6 +10,10 @@
     <RepositoryUrl>https://github.com/sirkris/Reddit.NET</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>reddit.net reddit authtokenretriever authtokenretrieverlib xamarin xamarin.forms android xamarin.android mobile ios xamarin.ios oauth</PackageTags>
+    <Version>1.0.0+develop</Version>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageReleaseNotes />
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
