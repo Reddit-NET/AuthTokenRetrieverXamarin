@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <Authors>Kris Craig</Authors>
+    <Description>This tutorial details how to create a simple Xamarin.Forms mobile app that authenticates a Reddit user and retrieves the necessary OAuth tokens.</Description>
+    <Copyright>Copyright (C) 2021 by Kris Craig</Copyright>
+    <PackageProjectUrl>https://github.com/Reddit-NET/AuthTokenRetrieverXamarin</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sirkris/Reddit.NET</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>reddit.net reddit authtokenretriever authtokenretrieverlib xamarin xamarin.forms android xamarin.android mobile ios xamarin.ios oauth</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
